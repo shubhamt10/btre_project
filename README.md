@@ -4,6 +4,7 @@
 ### Python
 ### Django
 ### Bootstrap,HTML,CSS,JS
+### PostgreSQL
 
 ## Screenshots
 
